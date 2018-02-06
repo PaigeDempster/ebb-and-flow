@@ -1,0 +1,8 @@
+# ebb&flow
+![dude with a computer for a head](https://github.com/PaigeDempster/ebb-and-flow/blob/master/issue%20404.png?raw=true)  
+There are people out there that will tell you traditional print is the best and only way to deliver information, those people are the ones that cling to out of date traditions. They're worried that designers already have too much power, and a web designer is even worse, but good web design can and will adapt to everyone by prioritizing content over form; as in focus on what the website is for instead of making it look pretty. As a web designer, make your website able to conform to everyone's needs, the best way to do this and maintain a sense of consistency is to use a style sheet.
+[Original article here](https://alistapart.com/article/dao)
+
+## *About Me*
+I'm 21 years old and going for a graphic design major. I grew up in Oakland, New Jersey, a suburb that's under an hour drive to New York City. Other than drawing, I like to play video games and cook a bit depending on my mood.
+![picture of moi](https://github.com/PaigeDempster/ebb-and-flow/blob/master/it-me.png?raw=true)
